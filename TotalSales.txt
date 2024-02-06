@@ -1,0 +1,3 @@
+Pear Phone: 900 units
+Pear Tablet: 1000 units
+Pear Laptop: 750 units
