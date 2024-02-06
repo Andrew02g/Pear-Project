@@ -1,0 +1,3 @@
+PearBooks, $1,299
+PearPhone, $999
+PearPad, $699
