@@ -1,0 +1,3 @@
+PearBooks, $1,299, 18.2 Million
+PearPhone, $999, 25.2 Million
+PearPad, $699, 23.1 Million
