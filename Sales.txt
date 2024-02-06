@@ -1,0 +1,6 @@
+Jonathan, 20 PearBooks, 32 PearPhones, 10 PearPads
+Ariana, 34 PearBooks, 50 PearPhones, 15 PearPads
+Felix, 67 PearBooks, 80 PearPhones, 19 PearPads
+Gabi, 90 PearBooks, 67 PearPhones, 20 PearPads
+Jair, 40 PearBooks, 60 PearPhones, 22 PearPads
+Ruben, 15 PearBooks, 30 PearPhones, 33 PearPads
